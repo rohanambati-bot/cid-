@@ -26,3 +26,6 @@ yarn-error.log*
 
 # Vercel
 .vercel/
+
+# Hackathon submission prototype — keep private, never push
+prototype-submission/
